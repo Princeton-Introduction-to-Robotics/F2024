@@ -1,6 +1,6 @@
-# Introduction to Robotics Fall 2023 Repository
+# Introduction to Robotics Fall 2024 Repository
 
-Source code assignments for MAE345 (COS346, ECE345, MAE549).
+Source code assignments for MAE345 (MAE345, COS346, ECE345, ROB345, MAE549, ROB549).
 
 This repository contains Jupyter notebook assignments for Princeton's Intro to Robotics course. It is organized in the following manner:
 
