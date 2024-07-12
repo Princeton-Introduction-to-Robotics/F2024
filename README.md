@@ -1,8 +1,8 @@
-# Introduction to Robotics Fall 2024 Repository
+# Dev repo: Introduction to Robotics Fall 2024
 
 Source code assignments for MAE345 (MAE345, COS346, ECE345, ROB345, MAE549, ROB549).
 
-This repository contains Jupyter notebook assignments for Princeton's Intro to Robotics course. It is organized in the following manner:
+This repository contains Jupyter notebook assignments for Princeton's MAE345 class. It is organized in the following manner:
 
 - All Jupyter notebooks are placed in the top level directory so they have access to all other Python modules and paths referenced in them are consistent.
 - All data provided / collected for use in assignments resides in `data`.
