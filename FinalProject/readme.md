@@ -43,7 +43,7 @@ You are free to move the obstacles around for testing purposes, but do not remov
 
 ## Demo Day and Grading
 
-We will hold a Demo Day for evaluating final projects. This will be held on Dean's Date (Friday, December 15th). At the beginning of December, we will send out a sign-up sheet for the Demo Day. Each team will sign up for a time-slot (20 minutes) and will have three attempts at the obstacle course. Each team will also explain the technical approach that they took to the course staff and will have to submit code for the project. We will use the three netted zones for the Demo Day; you will be able to choose which zone to use for the demo (to ensure that the lighting conditions are similar to what you assumed when programming the drone). 
+We will hold a Demo Day for evaluating final projects. This will be held on Dean's Date. At the beginning of December, we will send out a sign-up sheet for the Demo Day. Each team will sign up for a time-slot (20 minutes) and will have three attempts at the obstacle course. Each team will also explain the technical approach that they took to the course staff and will have to submit code for the project. We will use the three netted zones for the Demo Day; you will be able to choose which zone to use for the demo (to ensure that the lighting conditions are similar to what you assumed when programming the drone). 
 
 Your score on each of the three trials will be based on the following criteria:
 
