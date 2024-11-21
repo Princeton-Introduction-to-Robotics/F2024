@@ -68,7 +68,7 @@ Another (more involved) option is to construct an estimate of obstacle locations
 
 ## Advice From The Instructors
 
-- Don't reinvent the wheel. Unlike previous assignments, you are not restricted in the libraries and techniques you may use to approach this challenge. We especially recommend that you use OpenCV to simplify things as much as possible. For example, if you want to use optical flow to compute the time to collision of your drone with an obstacle, OpenCV has a very good implementation of the optical flow algorithm. Similarly, the script `test_cf.py` makes good use of OpenCV's contour detection algorithm. You are welcome to look up documentation / information on the use of OpenCV, Numpy, etc.
+- Don't reinvent the wheel. Unlike previous assignments, you are not restricted in the libraries and techniques you may use to approach this challenge. We especially recommend that you use OpenCV to simplify things as much as possible. For example, if you want to use optical flow to compute the time to collision of your drone with an obstacle, OpenCV has a very good implementation of the optical flow algorithm. Similarly, the script `sample-crazyflie.ipynb` makes good use of OpenCV's contour detection algorithm. You are welcome to look up documentation / information on the use of OpenCV, Numpy, etc.
 - There are some Crazyflie functions that may be useful; see [here](https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/api/cflib/positioning/) and [here](https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/api/cflib/crazyflie/high_level_commander/).
 - Go through the tips on working with the Crazyflie [here](https://github.com/Princeton-Introduction-to-Robotics/F2023/blob/main/crazyflie-tips.md).
 
